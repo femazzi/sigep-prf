@@ -1,0 +1,29 @@
+{
+  "name": "prf-vanilla",
+  "version": "1.0.0",
+  "description": "SIGEP PRF - plataforma modular de gestao integrada de pessoas com Node.js, Express e Vanilla JS.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "check:server": "node --check server.js",
+    "test": "echo \"Sem testes automatizados configurados\""
+  },
+  "keywords": [
+    "sigep",
+    "prf",
+    "node",
+    "express",
+    "vanilla-js",
+    "supabase"
+  ],
+  "author": "Felipe Mazzi",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.99.3",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  }
+}

@@ -12,7 +12,7 @@ O **SIGEP Base** e uma aplicacao web desenvolvida para resolver o problema de fr
 
 O projeto foi construido com foco em **performance, organizacao arquitetural e independencia de frameworks frontend pesados**, demonstrando que e possivel entregar uma Single Page Application (SPA) responsiva, modular e de facil manutencao usando JavaScript puro no cliente e uma API REST dedicada no backend.
 
-> 🎓 **Origem Acadêmica (Hub de Inovação):** Este projeto foi idealizado e desenvolvido durante o 1º Semestre do curso Superior de Tecnologia em **Análise e Desenvolvimento de Sistemas (TADS)** da Faculdade **SENAI Antônio Adolpho Lobbe** (São Carlos/SP). O sistema nasceu como proposta de Engenharia de Software para a disciplina de *Projetos Integradores*, buscando uma solução viável para um desafio real apresentado pela **Superintendência da Polícia Rodoviária Federal do Piauí (PRF-PI)**, intermediado pela plataforma SAGA SENAI ([gpinovacao.senai.br](https://gpinovacao.senai.br/)).
+> 🎓 **Origem Acadêmica (Hub de Inovação):** Este projeto foi idealizado e desenvolvido durante o 1º Semestre do curso Superior de Tecnologia em **Análise e Desenvolvimento de Sistemas** da Faculdade **SENAI Antônio Adolpho Lobbe** (São Carlos/SP). O sistema nasceu como proposta de Engenharia de Software para a disciplina de *Projetos Integradores*, buscando uma solução viável para um desafio real apresentado pela **Superintendência da Polícia Rodoviária Federal do Piauí (PRF-PI)**, intermediado pela plataforma SAGA SENAI ([gpinovacao.senai.br](https://gpinovacao.senai.br/)).
 
 ---
 
@@ -130,7 +130,6 @@ npm run check:server
 
 ## 📌 Observações
 
-- A pasta `docs/` e usada apenas para entregaveis e materiais locais; ela nao compoe a versao publicada no GitHub.
 - O projeto atual privilegia clareza arquitetural, baixo custo de manutencao e separacao de responsabilidades entre interface, API e persistencia.
 - Para ambiente institucional de producao, ainda e recomendavel evoluir pontos como hashing de senha, HTTPS obrigatorio, trilhas de auditoria e politicas formais de LGPD.
 

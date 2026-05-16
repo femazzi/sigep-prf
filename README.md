@@ -133,7 +133,3 @@ npm run check:server
 - O projeto atual privilegia clareza arquitetural, baixo custo de manutencao e separacao de responsabilidades entre interface, API e persistencia.
 - Para ambiente institucional de producao, ainda e recomendavel evoluir pontos como hashing de senha, HTTPS obrigatorio, trilhas de auditoria e politicas formais de LGPD.
 
-<br>
-<div align="center">
-  <sub>Construído com Engenharia de Software focada em performance, modularidade e manutenção limpa.</sub>
-</div>
